@@ -2,6 +2,9 @@
 # Objective:
 This project analyses the sales data of Vrinda Store for the year 2022 to understand customer behavior and ultimately increase sales in the coming year.
 
+# Vrinda Store Data Analysis Dashboard
+![Image Alt](https://github.com/shshankmishra26/Excel--Vrinda-Store-Data-Analysis/blob/main/Vrinda%20store%20dashboard.png?raw=true)
+
 # Analytical Approach
 
 The analysis and extraction of insights from Vrinda store dataset comprises the following key steps:

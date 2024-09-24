@@ -1,14 +1,14 @@
 # Excel--Vrinda-Store-Data-Analysis
-Objective: This project analyses the sales data of Vrinda Store for the year 2022 to understand customer behavior and ultimately increase sales in the coming year.
+# Objective: This project analyses the sales data of Vrinda Store for the year 2022 to understand customer behavior and ultimately increase sales in the coming year.
 
-Analytical Approach
+# Analytical Approach
 
 The analysis and extraction of insights from Vrinda store dataset comprises the following key steps:
 
 Data Cleaning
 Data Analysis
 Data Visualization
-Interpretation and Insights
+# Interpretation and Insights
 Before analysis starts, there must be a problem(s) we need to solve to get our analysis and these include:
 
 Which month had the highest sales and orders?
